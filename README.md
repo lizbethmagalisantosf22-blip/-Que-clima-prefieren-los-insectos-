@@ -1,4 +1,5 @@
 # -Que-clima-prefieren-los-insectos-
+![mariquita](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcienciaybiologia.com%2Finsectos-caracteristicas-generales-y-clasificacion%2F&psig=AOvVaw0IrmqmdKWgC7z7gOdw2rri&ust=1758813364891000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjgh8DY8Y8DFQAAAAAdAAAAABAX )
 TEMA:
 Que clima prefieren los insectos
 
@@ -6,7 +7,7 @@ PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 ¿En qué tipo de clima (soleado, nublado o lluvioso) se observa la mayor cantidad de insectos?
 
 LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA
--Elementos de datos necesarios para dar respuesta:
+Elementos de datos necesarios para dar respuesta:
 Tipo de clima del día
  saber si ese día fue soleado, nublado o lluvioso.
 → Esto permite clasificar las observaciones según el clima.
