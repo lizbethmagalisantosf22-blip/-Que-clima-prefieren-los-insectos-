@@ -1,5 +1,7 @@
 # -Que-clima-prefieren-los-insectos-
-![mariquita](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcienciaybiologia.com%2Finsectos-caracteristicas-generales-y-clasificacion%2F&psig=AOvVaw0IrmqmdKWgC7z7gOdw2rri&ust=1758813364891000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjgh8DY8Y8DFQAAAAAdAAAAABAX )
+<div align="center">
+  <img src="mariquita](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcienciaybiologia.com%2Finsectos-caracteristicas-generales-y-clasificacion%2F&psig=AOvVaw0IrmqmdKWgC7z7gOdw2rri&ust=1758813364891000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjgh8DY8Y8DFQAAAAAdAAAAABAX>
+   </div>  
 TEMA:
 Que clima prefieren los insectos
 
