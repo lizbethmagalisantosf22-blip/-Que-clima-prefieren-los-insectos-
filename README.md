@@ -1,4 +1,7 @@
 # -Que-clima-prefieren-los-insectos
+<p align="center">Este texto está centrado.</p>
+
+
 (![Texto alternativo](https://www.tipos.co/wp-content/uploads/2015/01/insectos.jpg)
 
 
