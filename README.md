@@ -10,7 +10,6 @@ PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 ¿En qué tipo de clima (soleado, nublado o lluvioso) se observa la mayor cantidad de insectos?
 
 LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA
-Elementos de datos necesarios para dar respuesta:
 
 - Tipo de clima del día,saber si ese día fue soleado, nublado o lluvioso.
  
