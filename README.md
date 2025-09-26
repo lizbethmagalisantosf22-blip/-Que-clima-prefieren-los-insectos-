@@ -2,8 +2,7 @@
 
 ![Texto alternativo](https://www.tipos.co/wp-content/uploads/2015/01/insectos.jpg)
 
-
-<p align="center">TEMA:
+TEMA:
 Que clima prefieren los insectos
 
 PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
@@ -32,8 +31,7 @@ https://kids.nationalgeographic.com
 https://climatekids.nasa.gov/
 
 OBJETIVO
-Determinar en qué tipo de clima (soleado, nublado o lluvioso) se observa una mayor presencia de insectos, mediante la recolección y análisis de datos diarios, para conocer sus condiciones ambientales preferidas.
 
- </p>
+<p align="center">Determinar en qué tipo de clima (soleado, nublado o lluvioso) se observa una mayor presencia de insectos, mediante la recolección y análisis de datos diarios, para conocer sus condiciones ambientales preferidas.</p>
 
 
