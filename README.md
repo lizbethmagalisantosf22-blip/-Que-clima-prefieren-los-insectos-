@@ -3,13 +3,14 @@
 
 ![Texto alternativo](https://www.tipos.co/wp-content/uploads/2015/01/insectos.jpg)
 
-#TEMA:
-#Que clima prefieren los insectos
+# TEMA:
+Que clima prefieren los insectos
 
-PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
+# PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 ¿En qué tipo de clima (soleado, nublado o lluvioso) se observa la mayor cantidad de insectos?
 
-LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA
+
+# LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA
 
 - Tipo de clima del día,saber si ese día fue soleado, nublado o lluvioso.Esto permite clasificar las observaciones según el clima.
   
