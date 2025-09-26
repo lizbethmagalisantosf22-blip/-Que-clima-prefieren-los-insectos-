@@ -12,24 +12,24 @@ PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA
 Elementos de datos necesarios para dar respuesta:
 
--Tipo de clima del día,saber si ese día fue soleado, nublado o lluvioso.
+- Tipo de clima del día,saber si ese día fue soleado, nublado o lluvioso.
  
 - Esto permite clasificar las observaciones según el clima.
   
--Cantidad total de insectos observados por día
+- Cantidad total de insectos observados por día
 
--Cuántos insectos se vieron durante un tiempo determinado 
+- Cuántos insectos se vieron durante un tiempo determinado 
 
--Sirve para comparar en qué clima hay más insectos.
+- Sirve para comparar en qué clima hay más insectos.
 
--Fecha de cada observación
+- Fecha de cada observación
 Para saber en qué día se hizo la observación.
 
--Ayuda a organizar la información y asegurar que los datos no se repiten.
+- Ayuda a organizar la información y asegurar que los datos no se repiten.
 
--Hora del día
+- Hora del día
 
--Hora exacta en la que se observó (ej. 3:00 p.m.)
+- Hora exacta en la que se observó (ej. 3:00 p.m.)
 
 Algunos insectos son más activos en ciertos momentos.
 Lugar de observación (siempre el mismo idealmente)
