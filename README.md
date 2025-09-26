@@ -3,8 +3,8 @@
 
 ![Texto alternativo](https://www.tipos.co/wp-content/uploads/2015/01/insectos.jpg)
 
-TEMA:
-Que clima prefieren los insectos
+#TEMA:
+#Que clima prefieren los insectos
 
 PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 ¿En qué tipo de clima (soleado, nublado o lluvioso) se observa la mayor cantidad de insectos?
