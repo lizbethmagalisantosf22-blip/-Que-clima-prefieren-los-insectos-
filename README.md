@@ -2,7 +2,7 @@
 
 ![Texto alternativo](https://www.tipos.co/wp-content/uploads/2015/01/insectos.jpg)
 
-<p align="left">Este texto está alineado a la izquierda.</p>
+<p align="center">Este texto está centrado.</p>
 
 TEMA:
 Que clima prefieren los insectos
